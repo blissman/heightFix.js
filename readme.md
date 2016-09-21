@@ -10,7 +10,7 @@ thus preventing a change when the screen resizes vertically. Additionally, heigh
 width in order to resize sections if the screen is maximized (on desktop) or turned (on mobile.)
 
 ###Requirements
-1. jQuery
+1. [jQuery](https://jquery.com/)
 2. Some knowledge of how to use jQuery
 3. heightFix.js
 
