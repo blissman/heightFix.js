@@ -16,7 +16,7 @@ width in order to detect and resize sections if the screen is maximized (on desk
 
 ###Instructions
 1. Make sure you've got [jQuery](https://jquery.com/) included in your html file.
-2. Include heightFix.js on your page
+2. Include heightFix.js on your page.
 3. Set up your section heights within the init function.
 4. ???
 5. Profit!
